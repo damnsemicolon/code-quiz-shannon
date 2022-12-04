@@ -29,7 +29,7 @@ var timePenalty = 10;
 function addQuestion(question) { // Add question text
     questionTitle.textContent = question[0];
 
-    //Clear UL element (if there is one)
+    //Clear previous question choices and show next question choices
     while (choices.hasChildNodes()) {
         choices.removeChild(choices.firstChild);
     }
@@ -60,7 +60,7 @@ function addQuestion(question) { // Add question text
 function endGame() { // * When the game ends, it should display their score and give the user the ability to save their initials and their score
     // Set timer to 0
     timeCountdown = 0;
-    time.textContent = timeCountdown + "s";
+    time.textContent = timeCountdown;
     // Pass the points scored to the respective place on the page
     finalScore.textContent = pointsScored;
 
@@ -94,7 +94,7 @@ startButton.addEventListener("click", function (event) {
             } else {
                 timeCountdown--;
             }
-            time.textContent = timeCountdown + "s";
+            time.textContent = timeCountdown;
         }, 1000)
     }
 });
