@@ -20,7 +20,7 @@ button {
   font-size: 100%;
   background-color: #563d7c;
   border-radius: 5px;
-  padding: 2px 10px;
+  padding: 10px 10px;
   color: white;
   border: 0;
   transition: background-color 0.1s;
@@ -38,20 +38,28 @@ input[type="text"] {
   font-size: 100%;
 }
 
-ol {
+
+/* ol {
   padding-left: 0px;
   max-height: 400px;
   overflow: auto;
-}
+} */
+
+/* Added to remove list item number */
+/* ul li {
+  padding: 5px;
+  list-style: none;
+} */
 
 li {
   padding: 5px;
-  list-style: decimal inside none;
+  list-style: none;
 }
 
-li:nth-child(odd) {
+/*Taken out to look more like demo
+/* li:nth-child(odd) {
   background-color: #f3edfc;
-}
+} */
 
 .wrapper {
   margin: 100px auto 0 auto;
