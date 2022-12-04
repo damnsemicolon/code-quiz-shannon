@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 var questionBook = [
-=======
-var listOfQuestions = [
->>>>>>> 9970b7c7e939a89c428bd22465a84de6d0c9d442
     //note to self: question, answers, correctAnswer
     [
         "Which element below does not belong to a 'For Loop'?",
