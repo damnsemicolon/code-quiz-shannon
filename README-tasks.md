@@ -65,9 +65,9 @@ This challenge is graded based on the following criteria:
 
 ### Repository Quality: 13%
 
-* Repository has a unique name.
+<!-- * Repository has a unique name. -->
 
-* Repository follows best practices for file structure and naming conventions.
+<!-- * Repository follows best practices for file structure and naming conventions. -->
 
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
