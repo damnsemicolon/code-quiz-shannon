@@ -26,7 +26,7 @@ Code Quiz Website:
 https://damnsemicolon.github.io/code-quiz-shannon
 
 Screenshot of deployed website:
-![screenshots](assets/screenshot.jpg)
+![screenshots](assets/screenshot(1).jpg)
 
 ## Credits
 
