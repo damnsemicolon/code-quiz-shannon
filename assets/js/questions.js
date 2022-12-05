@@ -1,5 +1,5 @@
 var questionBook = [
-    //note to self: question, answers, correctAnswer
+    //note to self: question, choices, correctAnswer
     [
         "Which element below does not belong to a 'For Loop'?",
         [
