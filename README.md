@@ -2,7 +2,7 @@
 
 ## Description
 
-As a review of the materials we learnt in our sixth week, our **Week 6 Challenge** will test our skills in HTML, CSS, JavaScript and logic by having us create a multiple choice quiz about Javascript.
+As a review of the materials we learnt in our sixth week, our **Week 6 Challenge** will test our skills in HTML, CSS, JavaScript and Web API by having us create a multiple choice quiz about Javascript.
 
 In this web application, I have applied the following skills:
 
@@ -13,6 +13,7 @@ In this web application, I have applied the following skills:
 >04. Google-fu
 >05. Lots of tears
 >06. Google-fu
+>07. Googling Youtube
 
 ## Installation
 
